@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Md-Sajid-Ali/Md-Sajid-Ali/blob/main/banner%20github.png)
 <h1 align="center">Hi 👋, I'm MD SAJID ALI MONDAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
